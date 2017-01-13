@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
         "merged": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
         "source": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\menu\\gatt_services.xml"
     },
     {
         "merged": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
-        "source": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\menu\\gatt_services.xml"
     }
 ]

@@ -263,15 +263,26 @@ public class ParseJSONActivity extends Activity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
+            case R.id.menu_map:
+                if (mBluetoothLeService != null) {
+                    unbindService(mServiceConnection);
+                    mBluetoothLeService = null;
+                }
+                final Intent mapIntent = new Intent(this, GoogleMapsActivity.class);
+                mapIntent.putExtra(GoogleMapsActivity.EXTRAS_DEVICE_NAME, mDeviceName);
+                mapIntent.putExtra(GoogleMapsActivity.EXTRAS_DEVICE_ADDRESS, mDeviceAddress);
+                startActivity(mapIntent);
+                finish();
+                return true;
             case R.id.menu_text:
                 if (mBluetoothLeService != null) {
                     unbindService(mServiceConnection);
                     mBluetoothLeService = null;
                 }
-                final Intent intent = new Intent(this, DeviceControlActivity.class);
-                intent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_NAME, mDeviceName);
-                intent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_ADDRESS, mDeviceAddress);
-                startActivity(intent);
+                final Intent textIntent = new Intent(this, DeviceControlActivity.class);
+                textIntent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_NAME, mDeviceName);
+                textIntent.putExtra(DeviceControlActivity.EXTRAS_DEVICE_ADDRESS, mDeviceAddress);
+                startActivity(textIntent);
                 finish();
                 return true;
             case R.id.menu_connect:

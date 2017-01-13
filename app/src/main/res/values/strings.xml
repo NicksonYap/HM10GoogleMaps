@@ -14,6 +14,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="google_maps_key">AIzaSyBA0g_E2E7LpftusI7H-E56qQynVlBVmQA</string>
     <string name="app_name">HM-10 Google Maps</string>
     <string name="ble_not_supported">BLE is not supported</string>
     <string name="label_data">Data:</string>

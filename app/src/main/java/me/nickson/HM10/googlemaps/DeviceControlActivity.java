@@ -255,15 +255,26 @@ public class DeviceControlActivity extends Activity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
+            case R.id.menu_map:
+                if (mBluetoothLeService != null) {
+                    unbindService(mServiceConnection);
+                    mBluetoothLeService = null;
+                }
+                final Intent mapIntent = new Intent(this, GoogleMapsActivity.class);
+                mapIntent.putExtra(GoogleMapsActivity.EXTRAS_DEVICE_NAME, mDeviceName);
+                mapIntent.putExtra(GoogleMapsActivity.EXTRAS_DEVICE_ADDRESS, mDeviceAddress);
+                startActivity(mapIntent);
+                finish();
+                return true;
             case R.id.menu_json:
                 if (mBluetoothLeService != null) {
                     unbindService(mServiceConnection);
                     mBluetoothLeService = null;
                 }
-                final Intent intent = new Intent(this, ParseJSONActivity.class);
-                intent.putExtra(ParseJSONActivity.EXTRAS_DEVICE_NAME, mDeviceName);
-                intent.putExtra(ParseJSONActivity.EXTRAS_DEVICE_ADDRESS, mDeviceAddress);
-                startActivity(intent);
+                final Intent jsonIntent = new Intent(this, ParseJSONActivity.class);
+                jsonIntent.putExtra(ParseJSONActivity.EXTRAS_DEVICE_NAME, mDeviceName);
+                jsonIntent.putExtra(ParseJSONActivity.EXTRAS_DEVICE_ADDRESS, mDeviceAddress);
+                startActivity(jsonIntent);
                 finish();
                 return true;
             case R.id.menu_connect:

@@ -5,32 +5,46 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="22109076888895"
-    token="1021147644231264161"
+    timestamp="48927198323524"
+    token="-1338495800776800822"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="20241" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="758" />
     <task
         name="verifier"
-        duration="0" />
+        duration="34" />
+
+    <artifact
+        location="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="21972785515347"
+        timestamp="47260800306907"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="22109076888895"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="48927198323524"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>

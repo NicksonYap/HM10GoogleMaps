@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nickson.bluetooth.le.test">
+    package="com.nickson.HM10.googlemaps.test" >
 
-    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="18" />
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.nickson.HM10.googlemaps"
+        android:targetPackage="com.nickson.HM10.googlemaps" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.nickson.bluetooth.le"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for com.nickson.bluetooth.le"/>
 </manifest>

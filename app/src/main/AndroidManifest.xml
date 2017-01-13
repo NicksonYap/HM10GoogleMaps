@@ -28,10 +28,17 @@ limitations under the License.
 
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
     <application android:label="@string/app_name"
                  android:icon="@mipmap/ic_launcher"
                  android:theme="@style/custom_theme">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+
         <activity android:name="me.nickson.HM10.googlemaps.DeviceScanActivity"
                   android:label="@string/app_name">
             <intent-filter>
@@ -43,6 +50,9 @@ limitations under the License.
             android:theme="@style/custom_theme"/>
         <activity android:name="me.nickson.HM10.googlemaps.ParseJSONActivity"
             android:theme="@style/custom_theme"/>
+        <activity android:name="me.nickson.HM10.googlemaps.GoogleMapsActivity"
+            android:theme="@style/custom_theme"/>
         <service android:name="me.nickson.HM10.googlemaps.BluetoothLeService" android:enabled="true"/>
+
     </application>
 </manifest>
