@@ -1,0 +1,7 @@
+#Fri Jan 13 20:36:24 SGT 2017
+base.0=C\:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c3ac798d15e7ccb9718210cfe9f30ecce75482f0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0130968f2b86d828c778267c25292a7410452495\\classes.dex
+base.1=C\:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0130968f2b86d828c778267c25292a7410452495
+file.0=C\:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c3ac798d15e7ccb9718210cfe9f30ecce75482f0\\classes.dex

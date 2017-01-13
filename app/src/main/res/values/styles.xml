@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="custom_theme" parent="@android:style/Theme.Holo.Light">
+        <!--item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item-->
+    </style>
+    <style name="custom_theme_fullscreen" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <!--item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="displayOptions">showHome|homeAsUp|showTitle</item>
+        <item name="android:icon">@android:color/transparent</item-->
+    </style>
+
+
+</resources>

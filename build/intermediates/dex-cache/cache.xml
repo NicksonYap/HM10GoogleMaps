@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bddd25b61bed96ffada3ef71b26542bfea181fe8">
+        <dex dex="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c3ac798d15e7ccb9718210cfe9f30ecce75482f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="044a0bfe8144ce037f47ca3ad10beb55f0325d3b">
+        <dex dex="C:\Users\Nickson\StudioProjects\HM10GoogleMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0130968f2b86d828c778267c25292a7410452495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nickson\StudioProjects\HM10SerialMonitor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="303edccafa3f70904cfb8543270df18e0bb63781">
+        <dex dex="C:\Users\Nickson\StudioProjects\HM10SerialMonitor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1856b8dbe07d79287d78777ee565e81776c57702\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nickson\StudioProjects\HM10SerialMonitor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cef1d8e715f80353267d8947f26ccbdeccd4ef76">
+        <dex dex="C:\Users\Nickson\StudioProjects\HM10SerialMonitor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5f92d26b9daaa4ab40b0c4ce3d369e75e2bc5861\classes.dex" />
+    </item>
+
+</items>

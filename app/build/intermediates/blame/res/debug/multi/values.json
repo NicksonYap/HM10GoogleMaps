@@ -1,0 +1,865 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 54,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 54,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 66,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 43,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 39,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 47,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 53,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 82,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 45,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 56,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 44,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 64,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endColumn": 46,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 48,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 54,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 42,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 42,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 34,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 43,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 41,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 56,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 53,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 73,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 57,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 59,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10GoogleMaps\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1808,
+                        "endLine": 43,
+                        "endColumn": 19,
+                        "endOffset": 1938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 57,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 57,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 66,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 66,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 43,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2025,
+                        "endColumn": 43,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 39,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1943,
+                        "endColumn": 39,
+                        "endOffset": 1978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 47,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 47,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 53,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 53,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 82,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 82,
+                        "endOffset": 1360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 45,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 45,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 56,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 968,
+                        "endColumn": 56,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 44,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 44,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 64,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 64,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 46,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 921,
+                        "endColumn": 46,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 48,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1583,
+                        "endColumn": 48,
+                        "endOffset": 1627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 54,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 54,
+                        "endOffset": 1682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 42,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1687,
+                        "endColumn": 42,
+                        "endOffset": 1725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 42,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1730,
+                        "endColumn": 42,
+                        "endOffset": 1768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 34,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1773,
+                        "endColumn": 34,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 43,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1082,
+                        "endColumn": 43,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 41,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1983,
+                        "endColumn": 41,
+                        "endOffset": 2020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 56,
+                    "endOffset": 1204
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1025,
+                        "endColumn": 56,
+                        "endOffset": 1077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1209,
+                    "endColumn": 53,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 53,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endColumn": 73,
+                    "endOffset": 1332
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endColumn": 73,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1337,
+                    "endColumn": 57,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1366,
+                        "endColumn": 57,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 59,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endColumn": 59,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1759
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1764,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2102
+                },
+                "from": {
+                    "file": "C:\\Users\\Nickson\\StudioProjects\\HM10SerialMonitor\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            }
+        ]
+    }
+]
